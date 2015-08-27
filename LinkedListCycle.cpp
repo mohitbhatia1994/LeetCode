@@ -1,4 +1,5 @@
-// Given a linked list, determine if it has a cycle in it.
+// Source : https://oj.leetcode.com/problems/
+// Author : Mohit Bhatia// Given a linked list, determine if it has a cycle in it.
 
 /**
  * Definition for singly-linked list.
