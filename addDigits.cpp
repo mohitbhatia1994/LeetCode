@@ -1,4 +1,3 @@
-// Source : https://oj.leetcode.com/problems/
 // Author : Mohit Bhatia
 
 /********************************************************************************* 
