@@ -6,7 +6,7 @@ class Solution {
 public:
     int addDigits(int num) {
 	    int sum ;
-	    if (num < 10) {return num;}
+	    if (num < 10) return num;
 	    while (num > 9) {
         	sum = 0;
 	    	while(num != 0) {
